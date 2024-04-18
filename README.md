@@ -1,13 +1,13 @@
 # Avilla-Forensics
-Esta es una extensión del proyecto original de Avilla Forensics
+Esta es una extensión del proyecto original de [Avilla Forensics](https://github.com/AvillaDaniel/AvillaForensics).
 
 # Descripción
 
-Este repositorio contiene el link original del código fuente y los recursos asociados al proyecto Avilla Forensics, desarrollado originalmente por Daniel Avilla. Avilla Forensics es una herramienta diseñada para asistir en el análisis forense digital en dispositivos móviles, proporcionando una serie de utilidades automatizadas para la gestión y análisis de datos.
+Este repositorio contiene el link original del código fuente y los recursos asociados al proyecto Avilla Forensics, desarrollado originalmente por **Daniel Avilla**. Avilla Forensics es una herramienta diseñada para asistir en el análisis forense digital en dispositivos móviles, proporcionando una serie de utilidades automatizadas para la gestión y análisis de datos.
 
 # Autorización
 
-Este proyecto es una bifurcación autorizada del proyecto original de Avilla Forensics. Tenemos permiso explícito del autor original, Daniel Avilla, para compartir y modificar el contenido original bajo los términos especificados en la licencia adjunta a este proyecto.
+Este proyecto es una bifurcación autorizada del proyecto original de Avilla Forensics. Tenemos permiso explícito del autor original, **Daniel Avilla**, para compartir y modificar el contenido original bajo los términos especificados en la licencia adjunta a este proyecto.
 
 # Licencia
 
