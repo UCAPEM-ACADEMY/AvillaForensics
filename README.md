@@ -1,3 +1,4 @@
+(https://user-images.githubusercontent.com/102838167/161397689-5df01560-546c-4d82-94a6-e4a3b677875f.png)
 # Avilla-Forensics
 Esta es una extensión del proyecto original de [Avilla Forensics](https://github.com/AvillaDaniel/AvillaForensics).
 
@@ -11,4 +12,4 @@ Este proyecto es una bifurcación autorizada del proyecto original de Avilla For
 
 # Licencia
 
-Este proyecto está licenciado bajo [Tipo de Licencia], que permite el uso, distribución y modificación del software siempre que se cumplan las condiciones establecidas en dicha licencia. Consulte el archivo LICENSE para obtener más detalles.
+Este proyecto está licenciado bajo GNU General Public License, que permite el uso, distribución y modificación del software siempre que se cumplan las condiciones establecidas en dicha licencia. Consulte el archivo LICENSE para obtener más detalles.
