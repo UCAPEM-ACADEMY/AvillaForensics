@@ -1,4 +1,4 @@
-(https://user-images.githubusercontent.com/102838167/161397689-5df01560-546c-4d82-94a6-e4a3b677875f.png)
+(https://www.ucapem.group/site/wp-content/uploads/2023/06/Avilla-01.png)
 # Avilla-Forensics
 Esta es una extensión del proyecto original de [Avilla Forensics](https://github.com/AvillaDaniel/AvillaForensics).
 
