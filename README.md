@@ -19,7 +19,7 @@ Este proyecto es una bifurcación autorizada del proyecto original de Avilla For
 
 # Licencia
 
-Este proyecto está licenciado bajo GNU General Public License, que permite el uso, distribución y modificación del software siempre que se cumplan las condiciones establecidas en dicha licencia. Consulte el archivo LICENSE para obtener más detalles.
+Este proyecto está licenciado bajo GNU General Public License, que permite el uso, distribución y modificación del software siempre que se cumplan las condiciones establecidas en dicha licencia. Consulte el archivo [LICENSE](https://github.com/UCAPEM-ACADEMY/AvillaForensics?tab=License-1-ov-file) para obtener más detalles.
 
 # Avilla Forensics 3.6 - Modificada
 
