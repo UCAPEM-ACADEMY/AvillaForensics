@@ -37,3 +37,7 @@ La versión de **Avilla Forensics 3.6** compartida por **UCAPEM Academy** se ha 
 </p>
 
 **UCAPEM Academy** se enorgullece de ser el proveedor exclusivo de la formación para la **Certificación Oficial de Avilla Forensics a nivel internacional**. Con un enfoque en la excelencia educativa y práctica, nuestros cursos están diseñados para preparar a los profesionales en el campo forense digital, dotándolos de las habilidades y conocimientos necesarios para utilizar Avilla Forensics eficazmente en sus investigaciones. A través de una combinación de instrucción experta y experiencia práctica, UCAPEM Academy garantiza que los participantes no solo obtengan la certificación, sino que también adquieran una comprensión profunda y aplicable de las técnicas forenses más avanzadas, habilitándolos para enfrentar desafíos reales en el ámbito digital global.
+
+## Información de la Certificación Oficial
+
+Para más información, puede contactarse al correo: info@ucapem.academy, o enviar un mensaje por [WhatsApp](https://wa.me/593987121348)
