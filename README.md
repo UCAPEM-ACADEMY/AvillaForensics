@@ -21,6 +21,15 @@ Este proyecto es una bifurcación autorizada del proyecto original de Avilla For
 
 Este proyecto está licenciado bajo GNU General Public License, que permite el uso, distribución y modificación del software siempre que se cumplan las condiciones establecidas en dicha licencia. Consulte el archivo LICENSE para obtener más detalles.
 
+# Avilla Forensics 3.6 - Modificada
+
+La versión de **Avilla Forensics 3.6** compartida por **UCAPEM Academy** se ha modificado específicamente para agregar soporte en idioma español, con el objetivo de hacer esta poderosa herramienta más accesible a los usuarios hispanohablantes en todo el mundo. Esta adaptación busca facilitar la comprensión y el uso eficiente del software, asegurando que más profesionales puedan aprovechar al máximo sus funcionalidades.
+
+## Lista de cambios en la version 3.6, ofrecida por UCAPEM Academy:
+
+* **Transcipción de archivos de audio OPUS:** La versión oficial, solo permite la transcripción de audios OPUS en idioma portugues brasileño, por lo que hemos añadido el idioma español para la transcripción de estos archivos de audio.
+* **Transcripción de archvios de audio MP3, OPUS, WAV, WMA, en IPED:** La indexación de archivos mediante IPED, trae por defecto la transcripción de archivos de audio en portugues brasileño, por lo que tambien hemos añadido el idioma español para la transcripción de estos archivos de audio, mediante el indexador IPED.
+
 # Certificación Oficial
 
 <p align="center">
