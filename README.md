@@ -30,6 +30,11 @@ La versión de **Avilla Forensics 3.6** compartida por **UCAPEM Academy** se ha 
 * **Transcipción de archivos de audio OPUS:** La versión oficial, solo permite la transcripción de audios OPUS en idioma portugues brasileño, por lo que hemos añadido el idioma español para la transcripción de estos archivos de audio.
 * **Transcripción de archvios de audio MP3, OPUS, WAV, WMA, en IPED:** La indexación de archivos mediante IPED, trae por defecto la transcripción de archivos de audio en portugues brasileño, por lo que tambien hemos añadido el idioma español para la transcripción de estos archivos de audio, mediante el indexador IPED.
 
+# Tutorial de Instalación y Uso
+
+Este Tutorial está dedicado a ayudarles a familiarizarse con todas las funcionalidades del software, desde la instalación básica hasta el manejo de funciones complejas para investigaciones forenses. Además, se ofrecen ejemplos prácticos y soluciones a problemas comunes para asegurar que puedan aplicar eficazmente Avilla Forensics en sus entornos profesionales. Nuestro objetivo es proporcionarles las herramientas y el conocimiento necesario para que puedan aprovechar al máximo esta poderosa herramienta y avanzar en su carrera de forense digital.
+[Acceso al Tutorial](https://github.com/UCAPEM-ACADEMY/AvillaForensics/wiki)
+
 # Certificación Oficial
 
 <p align="center">
