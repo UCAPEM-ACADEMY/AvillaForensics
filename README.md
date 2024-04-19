@@ -1,4 +1,8 @@
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://www.ucapem.group/site/wp-content/uploads/2023/06/Avilla-01.png)
+
+<p align="center">
+  <img width="460" height="300" src="[https://picsum.photos/460/300](https://www.ucapem.group/site/wp-content/uploads/2023/06/Avilla-01.png)">
+</p>
 # Avilla-Forensics
 Esta es una extensión del proyecto original de [Avilla Forensics](https://github.com/AvillaDaniel/AvillaForensics).
 
