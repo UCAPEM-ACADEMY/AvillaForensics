@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://www.ucapem.group/site/wp-content/uploads/2023/06/Avilla-01.png">
+  <img width="660" height="550" src="https://www.ucapem.group/site/wp-content/uploads/2023/06/Avilla-01.png">
 </p>
 
 # Avilla-Forensics
@@ -24,7 +24,7 @@ Este proyecto está licenciado bajo GNU General Public License, que permite el u
 # Certificación Oficial
 
 <p align="center">
-  <img width="460" height="300" src="https://www.ucapem.group/site/wp-content/uploads/2024/04/Badged-13.png">
+  <img width="360" height="360" src="https://www.ucapem.group/site/wp-content/uploads/2024/04/Badged-13.png">
 </p>
 
 **UCAPEM Academy** se enorgullece de ser el proveedor exclusivo de la formación para la **Certificación Oficial de Avilla Forensics a nivel internacional**. Con un enfoque en la excelencia educativa y práctica, nuestros cursos están diseñados para preparar a los profesionales en el campo forense digital, dotándolos de las habilidades y conocimientos necesarios para utilizar Avilla Forensics eficazmente en sus investigaciones. A través de una combinación de instrucción experta y experiencia práctica, UCAPEM Academy garantiza que los participantes no solo obtengan la certificación, sino que también adquieran una comprensión profunda y aplicable de las técnicas forenses más avanzadas, habilitándolos para enfrentar desafíos reales en el ámbito digital global.
