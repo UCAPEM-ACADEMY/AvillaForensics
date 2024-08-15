@@ -13,6 +13,10 @@ Algunas de las características más destacadas de Avilla Forensics es su capaci
 
 Avilla Forensics también se destaca por su facilidad de uso y su estructura amigable. Los usuarios pueden navegar fácilmente a través de la interfaz intuitiva del software y acceder a herramientas y características de forma rápida y eficiente.
 
+En la versión 3.7 de Avilla Forensics se han implementado numerosas mejoras y nuevas funcionalidades para la extracción y análisis de datos móviles. Esta actualización introdujo un sistema de integridad que genera registros cifrados AES-256 (.avilla), que contienen hashes de los archivos recopilados. Además del cifrado, el archivo .avilla cuenta con una firma HMAC, lo que crea una segunda capa de protección para la integridad de los archivos.
+
+La versión 3.7 mejora significativamente las capacidades de extracción y análisis de datos, ofreciendo nuevas funcionalidades de integridad y herramientas avanzadas para gestionar copias de seguridad y extraer datos de aplicaciones. Estas mejoras hacen que la herramienta sea aún más robusta y eficaz para las investigaciones forenses.
+
 # Autorización
 
 Este proyecto es una bifurcación autorizada del proyecto original de Avilla Forensics. Tenemos permiso explícito del autor original, **Daniel Avilla**, para compartir y modificar el contenido original bajo los términos especificados en la licencia adjunta a este proyecto.
