@@ -13,9 +13,13 @@ Algunas de las características más destacadas de Avilla Forensics es su capaci
 
 Avilla Forensics también se destaca por su facilidad de uso y su estructura amigable. Los usuarios pueden navegar fácilmente a través de la interfaz intuitiva del software y acceder a herramientas y características de forma rápida y eficiente.
 
-En la versión 3.7 de Avilla Forensics se han implementado numerosas mejoras y nuevas funcionalidades para la extracción y análisis de datos móviles. Esta actualización introdujo un sistema de integridad que genera registros cifrados AES-256 (.avilla), que contienen hashes de los archivos recopilados. Además del cifrado, el archivo .avilla cuenta con una firma HMAC, lo que crea una segunda capa de protección para la integridad de los archivos.
+En la versión 3.8 de Avilla Forensics se han implementado numerosas mejoras y nuevas funcionalidades para la extracción y análisis de datos móviles. Esta actualización introdujo un sistema de integridad que genera registros cifrados AES-256 (.avilla), que contienen hashes de los archivos recopilados. Además del cifrado, el archivo .avilla cuenta con una firma HMAC, lo que crea una segunda capa de protección para la integridad de los archivos.
 
-La versión 3.7 mejora significativamente las capacidades de extracción y análisis de datos, ofreciendo nuevas funcionalidades de integridad y herramientas avanzadas para gestionar copias de seguridad y extraer datos de aplicaciones. Estas mejoras hacen que la herramienta sea aún más robusta y eficaz para las investigaciones forenses.
+El gran punto fuerte de esta versión es su capacidad para lidiar con casos que involucran dispositivos móviles que usan sistemas operativos más nuevos, como ***Android 14 y 15**. A partir de esta actualización, ahora es posible realizar el **APK Downgrade en Android 14**. Además, se incluye un módulo avanzado que permite acceder a más regiones de almacenamiento, superando las colecciones tradicionales
+
+Otra característica innovadora es la posibilidad de realizar la **adquisición de datos simultáneamente en múltiples dispositivos**, satisfaciendo demandas complejas que requieren este tipo de enfoque.
+
+**Por último, la versión 3.8 trae como complemento la potente Avilla App Full Extraction**. Con esta herramienta, podrás recolectar datos de cualquier aplicación en la partición DATA, sin necesidad de acceso root o APK Downgrade. La característica es aún más robusta al permitir la extracción de datos de perfiles secundarios registrados en el dispositivo.
 
 # Autorización
 
@@ -25,11 +29,11 @@ Este proyecto es una bifurcación autorizada del proyecto original de Avilla For
 
 Este proyecto está licenciado bajo GNU General Public License, que permite el uso, distribución y modificación del software siempre que se cumplan las condiciones establecidas en dicha licencia. Consulte el archivo [LICENSE](https://github.com/UCAPEM-ACADEMY/AvillaForensics?tab=License-1-ov-file) para obtener más detalles.
 
-# Avilla Forensics 3.7.1 - Modificada
+# Avilla Forensics 3.8.1 - Modificada
 
-La versión de **Avilla Forensics 3.7** compartida por **UCAPEM Academy** se ha modificado específicamente para agregar soporte en idioma español, con el objetivo de hacer esta poderosa herramienta más accesible a los usuarios hispanohablantes en todo el mundo. Esta adaptación busca facilitar la comprensión y el uso eficiente del software, asegurando que más profesionales puedan aprovechar al máximo sus funcionalidades.
+La versión de **Avilla Forensics 3.8** compartida por **UCAPEM Academy** se ha modificado específicamente para agregar soporte en idioma español, con el objetivo de hacer esta poderosa herramienta más accesible a los usuarios hispanohablantes en todo el mundo. Esta adaptación busca facilitar la comprensión y el uso eficiente del software, asegurando que más profesionales puedan aprovechar al máximo sus funcionalidades.
 
-## Lista de cambios en la version 3.7.1, ofrecida por UCAPEM Academy:
+## Lista de cambios en la version 3.8.1, ofrecida por UCAPEM Academy:
 
 * **Transcipción de archivos de audio OPUS:** La versión oficial, solo permite la transcripción de audios OPUS en idioma portugues brasileño, por lo que hemos añadido el idioma español para la transcripción de estos archivos de audio.
 * **Transcripción de archvios de audio MP3, OPUS, WAV, WMA, en IPED:** La indexación de archivos mediante IPED, trae por defecto la transcripción de archivos de audio en portugues brasileño, por lo que tambien hemos añadido el idioma español para la transcripción de estos archivos de audio, mediante el indexador IPED.
